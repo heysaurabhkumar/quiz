@@ -4,7 +4,7 @@
 Download this repo and unzip it.
 
 ### Steps to run backend server:
-  Run the following commands.
+  Run the following commands.\
     Step 1: Open quiz directory in terminal.\
     Step 2: npm install\
     Step 3: npm i nodemon\
